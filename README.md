@@ -78,25 +78,17 @@ An ML model (in training) that forecasts sports game outcomes from historical da
 
 </div>
 
-<!-- ░░░ STATS ░░░ -->
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SRock44&theme=tokyonight" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SRock44&theme=tokyonight" width="49%"/>
-
-<a href="https://github.com/SRock44?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FSRock44&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&color=00d4ff&labelColor=0d1117&logo=github&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2FSRock44%3Fy%3Dlast&query=%24.total.lastYear&label=Contributions%20%281y%29&style=for-the-badge&color=7928ca&labelColor=0d1117&logo=github&logoColor=white"/>
-
-</div>
-
 <!-- ░░░ CONTRIBUTION ACTIVITY ░░░ -->
 ## Contribution Activity
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SRock44&days=60&bg_color=0d1117&color=8b949e&line=00d4ff&point=ffffff&area=true&area_color=7928ca&hide_border=true&radius=8" width="98%" alt="contribution activity graph — last 60 days"/>
+
+<br/>
+
+<a href="https://github.com/SRock44?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FSRock44&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&color=00d4ff&labelColor=0d1117&logo=github&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2FSRock44%3Fy%3Dlast&query=%24.total.lastYear&label=Contributions%20%281y%29&style=for-the-badge&color=7928ca&labelColor=0d1117&logo=github&logoColor=white"/>
 
 </div>
 
@@ -107,7 +99,7 @@ An ML model (in training) that forecasts sports game outcomes from historical da
 
 <a href="mailto:sean@rockwitz.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/SRock44"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/srockwitz/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/srockwitz/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI%2BPHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyNSAweiIvPjwvc3ZnPg%3D%3D"/></a>
 
 <br/>
 
