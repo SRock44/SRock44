@@ -22,6 +22,7 @@
 I'm a computer science student at **NYIT**, finishing up my degree and looking for my first full-time role. I work across the stack but I'm most drawn to **AI/ML** — building things that actually ship and get used.
 
 - I built **[Newton](https://newton.best)**, a live academic AI assistant with a multi-modal architecture and agentic workflows that help students learn.
+- I built **[pyhomerun](https://github.com/SRock44/pyhomerun)**, a zero-dependency Python library for baseball stats — sabermetrics and an MLB Stats API client, kept clean and simple to use.
 - I'm currently training an ML model to **predict sports game outcomes** ([`sports-prediction`](https://github.com/SRock44/sports-prediction)).
 - On the side, I develop custom **Lua** scripts for games like *Holdfast*, *GTA*, and *FiveM* — it's where I learned to read messy systems, reverse-engineer APIs, and ship for real players.
 
@@ -50,7 +51,7 @@ I'm a computer science student at **NYIT**, finishing up my degree and looking f
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 **[Newton](https://newton.best)** &nbsp;—&nbsp; live at [newton.best](https://newton.best)
 
@@ -61,7 +62,18 @@ A multi-modal AI study assistant built on agentic workflows that help students l
 <a href="https://github.com/SRock44/newt0n"><img src="https://img.shields.io/github/last-commit/SRock44/newt0n/dev?style=for-the-badge&color=00d4ff&labelColor=0d1117&label=dev%20updated&logo=github&logoColor=white"/></a>
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
+
+**[pyhomerun](https://github.com/SRock44/pyhomerun)** &nbsp;—&nbsp; on [PyPI](https://pypi.org/project/pyhomerun/)
+
+A clean, dependency-free Python library for baseball stats — sabermetrics + an MLB Stats API client.
+
+`Python`&nbsp; `Sabermetrics`&nbsp; `Zero Deps`
+
+<a href="https://pypi.org/project/pyhomerun/"><img src="https://img.shields.io/pypi/v/pyhomerun?style=for-the-badge&color=00d4ff&labelColor=0d1117&label=PyPI&logo=pypi&logoColor=white"/></a>
+
+</td>
+<td width="33%" valign="top">
 
 **[sports-prediction](https://github.com/SRock44/sports-prediction)**
 
@@ -86,7 +98,6 @@ An ML model (in training) that forecasts sports game outcomes from historical da
 
 <br/>
 
-<a href="https://github.com/SRock44?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FSRock44&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&color=00d4ff&labelColor=0d1117&logo=github&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2FSRock44%3Fy%3Dlast&query=%24.total.lastYear&label=Contributions%20%281y%29&style=for-the-badge&color=7928ca&labelColor=0d1117&logo=github&logoColor=white"/>
 
 </div>
