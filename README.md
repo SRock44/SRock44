@@ -11,7 +11,7 @@
 # Sean
 
 <a href="https://github.com/SRock44">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=620&lines=Wrapping+up+my+CS+degree+%40+NYIT;Training+AI+to+predict+sports+outcomes;Building+Newton%2C+an+AI+study+assistant;React+%7C+TypeScript+%7C+Python+%7C+AI%2FML" alt="typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=620&lines=CS+%40+NYIT%2C+graduating+2026;Self-hosted+ML%3A+65.1%25+NBA+%2F+58.6%25+MLB+accuracy;Leading+a+5-person+team+building+Newton+AI;Python+%7C+React%2FTS+%7C+XGBoost+%7C+Docker+Swarm" alt="typing animation"/>
 </a>
 
 </div>
@@ -19,11 +19,12 @@
 <!-- ░░░ ABOUT ░░░ -->
 ## About
 
-I'm a computer science student at **NYIT**, finishing up my degree and looking for my first full-time role. I work across the stack but I'm most drawn to **AI/ML** — building things that actually ship and get used.
+I'm a computer science student at **NYIT** (graduating 2026), currently working as a **Laboratory Consultant** at the NYIT ETIC Lab. I work across the stack but I'm most drawn to **AI/ML in production** — models that retrain themselves, get monitored, and actually ship.
 
-- I built **[Newton](https://newton.best)**, a live academic AI assistant with a multi-modal architecture and agentic workflows that help students learn.
-- I built **[pyhomerun](https://github.com/SRock44/pyhomerun)**, a zero-dependency Python library for baseball stats — sabermetrics and an MLB Stats API client, kept clean and simple to use.
-- I'm currently training an ML model to **predict sports game outcomes** ([`sports-prediction`](https://github.com/SRock44/sports-prediction)).
+- I run a **[production ML pipeline](https://github.com/SRock44/sports-prediction)** that predicts NBA/MLB game winners and player props with an XGBoost + LightGBM ensemble — 65.1% (NBA) / 58.6% (MLB) test-set accuracy, 50+ engineered features, and a fully automated Celery/Optuna retraining loop with MLflow-tracked champion/challenger promotion, running on a self-hosted GPU server.
+- I'm leading a 5-person team building **[Newton](https://newton.best)**, a production AI study platform.
+- I built **[pyhomerun](https://github.com/SRock44/pyhomerun)**, a zero-dependency Python library for baseball stats — sabermetrics and an MLB Stats API client, published on PyPI.
+- I maintain a multi-node **Docker Swarm homelab** with health-check failover and load balancing across distributed nodes.
 - On the side, I develop custom **Lua** scripts for games like *Holdfast*, *GTA*, and *FiveM* — it's where I learned to read messy systems, reverse-engineer APIs, and ship for real players.
 
 <!-- ░░░ TECH STACK ░░░ -->
@@ -77,9 +78,9 @@ A clean, dependency-free Python library for baseball stats — sabermetrics + an
 
 **[sports-prediction](https://github.com/SRock44/sports-prediction)**
 
-An ML model (in training) that forecasts sports game outcomes from historical data.
+Production XGBoost + LightGBM ensemble for NBA/MLB winners & player props — 65.1% / 58.6% test-set accuracy, self-retrains nightly via Celery + Optuna, MLflow-tracked.
 
-`Python`&nbsp; `AI/ML`
+`Python`&nbsp; `XGBoost`&nbsp; `MLOps`
 
 <a href="https://github.com/SRock44/sports-prediction"><img src="https://img.shields.io/github/last-commit/SRock44/sports-prediction/main?style=for-the-badge&color=00d4ff&labelColor=0d1117&label=updated&logo=github&logoColor=white"/></a>
 
