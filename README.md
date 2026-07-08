@@ -81,7 +81,7 @@ An ML model (in training) that forecasts sports game outcomes from historical da
 
 `Python`&nbsp; `AI/ML`
 
-<a href="https://github.com/SRock44/sports-prediction"><img src="https://img.shields.io/github/last-commit/SRock44/sports-prediction?style=for-the-badge&color=00d4ff&labelColor=0d1117&label=updated&logo=github&logoColor=white"/></a>
+<a href="https://github.com/SRock44/sports-prediction"><img src="https://img.shields.io/github/last-commit/SRock44/sports-prediction/main?style=for-the-badge&color=00d4ff&labelColor=0d1117&label=updated&logo=github&logoColor=white"/></a>
 
 </td>
 </tr>
