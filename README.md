@@ -21,10 +21,9 @@
 
 I'm a computer science student at **NYIT** (graduating 2026), currently working as a **Laboratory Consultant** at the NYIT ETIC Lab. I work across the stack but I'm most drawn to **AI/ML in production** — models that retrain themselves, get monitored, and actually ship.
 
-- I run a **[production ML pipeline](https://github.com/SRock44/sports-prediction)** that predicts NBA/MLB game winners and player props with an XGBoost + LightGBM ensemble — 65.1% (NBA) / 58.6% (MLB) test-set accuracy, 50+ engineered features, and a fully automated Celery/Optuna retraining loop with MLflow-tracked champion/challenger promotion, running on a self-hosted GPU server.
-- I'm leading a 5-person team building **[Newton](https://newton.best)**, a production AI study platform.
-- I built **[pyhomerun](https://github.com/SRock44/pyhomerun)**, a zero-dependency Python library for baseball stats — sabermetrics and an MLB Stats API client, published on PyPI.
-- I maintain a multi-node **Docker Swarm homelab** with health-check failover and load balancing across distributed nodes.
+- I run a **[production ML pipeline](https://github.com/SRock44/sports-prediction)** that predicts NBA/MLB game winners and player props with an XGBoost + LightGBM ensemble — test-set accuracy, 50+ engineered features, and a fully automated Celery/Optuna retraining loop with MLflow-tracked champion/challenger promotion, running on a self-hosted GPU server.
+- I'm leading an amazing team building **[Newton](https://newton.best)**, a production AI study platform.
+- I built **[pyhomerun](https://github.com/SRock44/pyhomerun)**, a zero-dependency Python library for baseball stats: sabermetrics and an MLB Stats API client, published on PyPI.
 - On the side, I develop custom **Lua** scripts for games like *Holdfast*, *GTA*, and *FiveM* — it's where I learned to read messy systems, reverse-engineer APIs, and ship for real players.
 
 <!-- ░░░ TECH STACK ░░░ -->
