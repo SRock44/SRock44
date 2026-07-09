@@ -77,7 +77,7 @@ A clean, dependency-free Python library for baseball stats — sabermetrics + an
 
 **[sports-prediction](https://github.com/SRock44/sports-prediction)**
 
-Production XGBoost + LightGBM ensemble for NBA/MLB winners & player props — 65.1% / 58.6% test-set accuracy, self-retrains nightly via Celery + Optuna, MLflow-tracked.
+Production XGBoost + LightGBM ensemble for NBA/MLB winners & player props. Self-retrains nightly via Celery + Optuna, MLflow-tracked.
 
 `Python`&nbsp; `XGBoost`&nbsp; `MLOps`
 
