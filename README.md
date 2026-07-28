@@ -11,7 +11,7 @@
 # Sean
 
 <a href="https://github.com/SRock44">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=620&lines=CS+%40+NYIT%2C+graduating+2026;Self-hosted+ML%3A+65.1%25+NBA+%2F+58.6%25+MLB+accuracy;Leading+a+5-person+team+building+Newton+AI;Python+%7C+React%2FTS+%7C+XGBoost+%7C+Docker+Swarm" alt="typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=760&lines=CS+%40+NYIT%2C+graduating+2026;Building+AI%2FML+pipelines+in+Python;Author+of+pyhomerun%2C+a+sabermetrics+lib+on+PyPI;Python+%7C+XGBoost+%7C+PyTorch+%7C+Pandas" alt="typing animation"/>
 </a>
 
 </div>
