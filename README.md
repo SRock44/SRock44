@@ -1,5 +1,5 @@
 <!--
-  GitHub Profile README — Sean (SRock44) — sleek dark / neon
+  GitHub Profile README: Sean (SRock44), sleek dark / neon
   Repo must be named exactly: SRock44/SRock44
   Design system: bg #0d1117 · accent #00d4ff (cyan) · accent #7928ca (purple)
   · muted #8b949e · all badges style=for-the-badge, logoColor=white
@@ -19,12 +19,12 @@
 <!-- ░░░ ABOUT ░░░ -->
 ## About
 
-I'm a computer science student at **NYIT** (graduating 2026), currently working as a **Laboratory Consultant** at the NYIT ETIC Lab. I work across the stack but I'm most drawn to **AI/ML in production** — models that retrain themselves, get monitored, and actually ship.
+I'm a computer science student at **NYIT** (graduating 2026), currently working as a **Laboratory Consultant** at the NYIT ETIC Lab. I work across the stack but I'm most drawn to **AI/ML in production**: models that retrain themselves, get monitored, and actually ship.
 
-- I run a production ML pipeline that predicts NBA/MLB game winners and player props with an XGBoost + LightGBM ensemble — test-set accuracy, 50+ engineered features, and a fully automated Celery/Optuna retraining loop with MLflow-tracked champion/challenger promotion, running on a self-hosted GPU server. The feature engineering and model training code is open-sourced at **[sports-prediction-model](https://github.com/SRock44/sports-prediction-model)**.
-- I built **[rmbr](https://github.com/SRock44/rmbr)**, an embedded, local-first memory + retrieval engine for AI agents — one SQLite file, no server, no API key — published on PyPI.
+- I run a production ML pipeline that predicts NBA/MLB game winners and player props with an XGBoost + LightGBM ensemble: test-set accuracy, 50+ engineered features, and a fully automated Celery/Optuna retraining loop with MLflow-tracked champion/challenger promotion, running on a self-hosted GPU server. The feature engineering and model training code is open-sourced at **[sports-prediction-model](https://github.com/SRock44/sports-prediction-model)**.
+- I built **[rmbr](https://github.com/SRock44/rmbr)**, an embedded, local-first memory + retrieval engine for AI agents: one SQLite file, no server, no API key required. Published on PyPI, listed as an MCP server on the [official MCP registry](https://registry.modelcontextprotocol.io) and on [Glama.ai](https://glama.ai/mcp/servers/SRock44/rmbr), with an optional HTTP mode too.
 - I built **[pyhomerun](https://github.com/SRock44/pyhomerun)**, a zero-dependency Python library for baseball stats: sabermetrics and an MLB Stats API client, published on PyPI.
-- On the side, I develop custom **Lua** scripts for games like *Holdfast*, *GTA*, and *FiveM* — it's where I learned to read messy systems, reverse-engineer APIs, and ship for real players.
+- On the side, I develop custom **Lua** scripts for games like *Holdfast*, *GTA*, and *FiveM*, which is where I learned to read messy systems, reverse-engineer APIs, and ship for real players.
 
 <!-- ░░░ TECH STACK ░░░ -->
 ## Tech Stack
@@ -53,9 +53,9 @@ I'm a computer science student at **NYIT** (graduating 2026), currently working 
 <tr>
 <td width="33%" valign="top">
 
-**[rmbr](https://github.com/SRock44/rmbr)** &nbsp;—&nbsp; on [PyPI](https://pypi.org/project/rmbr/)
+**[rmbr](https://github.com/SRock44/rmbr)** &nbsp;·&nbsp; on [PyPI](https://pypi.org/project/rmbr/)
 
-An embedded, local-first memory + retrieval engine for AI agents — one SQLite file, no server, no API key.
+An embedded, local-first memory + retrieval engine for AI agents: one SQLite file, no server, no API key.
 
 `Python`&nbsp; `SQLite`&nbsp; `MCP`
 
@@ -65,9 +65,9 @@ An embedded, local-first memory + retrieval engine for AI agents — one SQLite 
 </td>
 <td width="33%" valign="top">
 
-**[pyhomerun](https://github.com/SRock44/pyhomerun)** &nbsp;—&nbsp; on [PyPI](https://pypi.org/project/pyhomerun/)
+**[pyhomerun](https://github.com/SRock44/pyhomerun)** &nbsp;·&nbsp; on [PyPI](https://pypi.org/project/pyhomerun/)
 
-A clean, dependency-free Python library for baseball stats — sabermetrics + an MLB Stats API client.
+A clean, dependency-free Python library for baseball stats: sabermetrics + an MLB Stats API client.
 
 `Python`&nbsp; `Sabermetrics`&nbsp; `Zero Deps`
 
@@ -95,7 +95,7 @@ Open-source feature engineering + XGBoost/LightGBM training code powering my pro
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SRock44&days=60&bg_color=0d1117&color=8b949e&line=00d4ff&point=ffffff&area=true&area_color=7928ca&hide_border=true&radius=8" width="98%" alt="contribution activity graph — last 60 days"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SRock44&days=60&bg_color=0d1117&color=8b949e&line=00d4ff&point=ffffff&area=true&area_color=7928ca&hide_border=true&radius=8" width="98%" alt="contribution activity graph, last 60 days"/>
 
 <br/>
 
