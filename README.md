@@ -22,7 +22,7 @@
 I'm a computer science student at **NYIT** (graduating 2026), currently working as a **Laboratory Consultant** at the NYIT ETIC Lab. I work across the stack but I'm most drawn to **AI/ML in production** — models that retrain themselves, get monitored, and actually ship.
 
 - I run a production ML pipeline that predicts NBA/MLB game winners and player props with an XGBoost + LightGBM ensemble — test-set accuracy, 50+ engineered features, and a fully automated Celery/Optuna retraining loop with MLflow-tracked champion/challenger promotion, running on a self-hosted GPU server. The feature engineering and model training code is open-sourced at **[sports-prediction-model](https://github.com/SRock44/sports-prediction-model)**.
-- I'm leading an amazing team building **[Newton](https://newton.best)**, a production AI study platform.
+- I built **[rmbr](https://github.com/SRock44/rmbr)**, an embedded, local-first memory + retrieval engine for AI agents — one SQLite file, no server, no API key — published on PyPI.
 - I built **[pyhomerun](https://github.com/SRock44/pyhomerun)**, a zero-dependency Python library for baseball stats: sabermetrics and an MLB Stats API client, published on PyPI.
 - On the side, I develop custom **Lua** scripts for games like *Holdfast*, *GTA*, and *FiveM* — it's where I learned to read messy systems, reverse-engineer APIs, and ship for real players.
 
