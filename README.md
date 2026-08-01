@@ -53,13 +53,14 @@ I'm a computer science student at **NYIT** (graduating 2026), currently working 
 <tr>
 <td width="33%" valign="top">
 
-**[Newton](https://newton.best)** &nbsp;—&nbsp; live at [newton.best](https://newton.best)
+**[rmbr](https://github.com/SRock44/rmbr)** &nbsp;—&nbsp; on [PyPI](https://pypi.org/project/rmbr/)
 
-A multi-modal AI study assistant built on agentic workflows that help students learn faster.
+An embedded, local-first memory + retrieval engine for AI agents — one SQLite file, no server, no API key.
 
-`React`&nbsp; `TypeScript`&nbsp; `Python`&nbsp; `LLMs`
+`Python`&nbsp; `SQLite`&nbsp; `MCP`
 
-<a href="https://github.com/SRock44/newt0n"><img src="https://img.shields.io/github/last-commit/SRock44/newt0n/dev?style=for-the-badge&color=00d4ff&labelColor=0d1117&label=dev%20updated&logo=github&logoColor=white"/></a>
+<a href="https://pypi.org/project/rmbr/"><img src="https://img.shields.io/pypi/v/rmbr?style=for-the-badge&color=00d4ff&labelColor=0d1117&label=PyPI&logo=pypi&logoColor=white"/></a>
+<a href="https://glama.ai/mcp/servers/SRock44/rmbr"><img src="https://glama.ai/mcp/servers/SRock44/rmbr/badges/score.svg"/></a>
 
 </td>
 <td width="33%" valign="top">
