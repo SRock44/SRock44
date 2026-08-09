@@ -25,6 +25,7 @@ I'm a computer science student at **NYIT** (graduating 2026), currently working 
 - I built **[rmbr](https://github.com/SRock44/rmbr)**, an embedded, local-first memory + retrieval engine for AI agents: one SQLite file, no server, no API key required. Published on PyPI, listed as an MCP server on the [official MCP registry](https://registry.modelcontextprotocol.io) and on [Glama.ai](https://glama.ai/mcp/servers/SRock44/rmbr), with an optional HTTP mode too.
 - I built **[pyhomerun](https://github.com/SRock44/pyhomerun)**, a zero-dependency Python library for baseball stats: sabermetrics and an MLB Stats API client, published on PyPI.
 - On the side, I develop custom **Lua** scripts for games like *Holdfast*, *GTA*, and *FiveM*, which is where I learned to read messy systems, reverse-engineer APIs, and ship for real players.
+- I built **[SoundKitten](https://soundkitten.org)**, a lightweight Rust/Tauri desktop SoundCloud client for people who'd rather not run a browser wrapped in an "app." Source at **[soundkitten](https://github.com/srock44/soundkitten)**.
 
 <!-- ░░░ TECH STACK ░░░ -->
 ## Tech Stack
@@ -51,7 +52,7 @@ I'm a computer science student at **NYIT** (graduating 2026), currently working 
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 **[rmbr](https://github.com/SRock44/rmbr)** &nbsp;·&nbsp; on [PyPI](https://pypi.org/project/rmbr/)
 
@@ -63,7 +64,18 @@ An embedded, local-first memory + retrieval engine for AI agents: one SQLite fil
 <a href="https://glama.ai/mcp/servers/SRock44/rmbr"><img src="https://glama.ai/mcp/servers/SRock44/rmbr/badges/score.svg"/></a>
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
+
+**[SoundKitten](https://github.com/srock44/soundkitten)** &nbsp;·&nbsp; [soundkitten.org](https://soundkitten.org)
+
+A lightweight Rust/Tauri desktop SoundCloud client for people who'd rather not run a browser wrapped in an "app."
+
+`Rust`&nbsp; `Tauri`&nbsp; `Desktop`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 **[pyhomerun](https://github.com/SRock44/pyhomerun)** &nbsp;·&nbsp; on [PyPI](https://pypi.org/project/pyhomerun/)
 
@@ -74,7 +86,7 @@ A clean, dependency-free Python library for baseball stats: sabermetrics + an ML
 <a href="https://pypi.org/project/pyhomerun/"><img src="https://img.shields.io/pypi/v/pyhomerun?style=for-the-badge&color=00d4ff&labelColor=0d1117&label=PyPI&logo=pypi&logoColor=white"/></a>
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 **[sports-prediction-model](https://github.com/SRock44/sports-prediction-model)**
 
