@@ -108,7 +108,55 @@ Open-source feature engineering + XGBoost/LightGBM training code powering my pro
 <div align="center">
 
 <!--START_SECTION:waka-->
-Populated by the `Dev Metrics` GitHub Action on its next scheduled run (or trigger it manually from the Actions tab).
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 375.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 1,554 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 23 Public Repositories 
+ > 
+> 🔑 40 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                339 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
+🌆 Daytime                1047 commits        ██████████░░░░░░░░░░░░░░░   41.60 % 
+🌃 Evening                854 commits         ████████░░░░░░░░░░░░░░░░░   33.93 % 
+🌙 Night                  277 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   327 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
+Tuesday                  308 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
+Wednesday                292 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
+Thursday                 380 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
+Friday                   381 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
+Saturday                 563 commits         ██████░░░░░░░░░░░░░░░░░░░   22.37 % 
+Sunday                   266 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
+```
+
+
+**I Mostly Code in Lua** 
+
+```text
+Python                   12 repos            █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
+TypeScript               6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
+C#                       3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+Svelte                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+```
+
+
+
+
+ Last Updated on 09/08/2026 16:28:51 UTC
 <!--END_SECTION:waka-->
 
 </div>
