@@ -1,8 +1,8 @@
 <!--
-  GitHub Profile README: Sean (SRock44), terminal / monospace
+  GitHub Profile README: Sean (SRock44), sleek dark / neon
   Repo must be named exactly: SRock44/SRock44
   Design system: bg #0d1117 · accent #00d4ff (cyan) · accent #7928ca (purple)
-  · muted #8b949e · plain text over badges, code blocks as the primary unit
+  · muted #8b949e · all badges style=for-the-badge, logoColor=white
 -->
 
 <!-- ░░░ HEADER ░░░ -->
@@ -10,15 +10,11 @@
 
 # Sean
 
+<a href="https://github.com/SRock44">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=760&lines=CS+%40+NYIT%2C+graduating+2026;Building+AI%2FML+pipelines+in+Python;Author+of+pyhomerun%2C+a+sabermetrics+lib+on+PyPI;Python+%7C+XGBoost+%7C+PyTorch+%7C+Pandas" alt="typing animation"/>
+</a>
+
 </div>
-
-```
-guest@github:~$ whoami
-sean · CS @ NYIT (class of 2026) · Lab Consultant @ NYIT ETIC
-
-guest@github:~$ cat interests.txt
-AI/ML in production - models that retrain themselves, get monitored, and ship.
-```
 
 <!-- ░░░ ABOUT ░░░ -->
 ## About
@@ -34,71 +30,100 @@ I'm a computer science student at **NYIT** (graduating 2026), currently working 
 <!-- ░░░ TECH STACK ░░░ -->
 ## Tech Stack
 
-```
-guest@github:~$ cat stack.txt
-Languages    Python · TypeScript · JavaScript · Lua
-ML / Data    PyTorch · Pandas · XGBoost
-Tools        Node.js · Git
-```
+<div align="center">
+
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-0d1117?style=for-the-badge&logo=lua&logoColor=white)
+
+![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
 
 <!-- ░░░ FEATURED PROJECTS ░░░ -->
 ## Featured Projects
 
-### rmbr
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[rmbr](https://github.com/SRock44/rmbr)** &nbsp;·&nbsp; on [PyPI](https://pypi.org/project/rmbr/)
 
 An embedded, local-first memory + retrieval engine for AI agents: one SQLite file, no server, no API key.
 
-```
-$ pip install rmbr
-```
+`Python`&nbsp; `SQLite`&nbsp; `MCP`
 
-`Python` `SQLite` `MCP` &nbsp;·&nbsp; [source](https://github.com/SRock44/rmbr) · [PyPI](https://pypi.org/project/rmbr/) · [MCP registry](https://registry.modelcontextprotocol.io) · [Glama](https://glama.ai/mcp/servers/SRock44/rmbr)
+<a href="https://pypi.org/project/rmbr/"><img src="https://img.shields.io/pypi/v/rmbr?style=for-the-badge&color=00d4ff&labelColor=0d1117&label=PyPI&logo=pypi&logoColor=white"/></a>
+<a href="https://glama.ai/mcp/servers/SRock44/rmbr"><img src="https://glama.ai/mcp/servers/SRock44/rmbr/badges/score.svg"/></a>
 
-### SoundKitten
+</td>
+<td width="50%" valign="top">
+
+**[SoundKitten](https://github.com/srock44/soundkitten)** &nbsp;·&nbsp; [soundkitten.org](https://soundkitten.org)
 
 A lightweight Rust/Tauri desktop SoundCloud client for people who'd rather not run a browser wrapped in an "app."
 
-```
-$ open soundkitten.org
-```
+`Rust`&nbsp; `Tauri`&nbsp; `Desktop`
 
-`Rust` `Tauri` `Desktop` &nbsp;·&nbsp; [source](https://github.com/srock44/soundkitten) · [site](https://soundkitten.org)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### pyhomerun
+**[pyhomerun](https://github.com/SRock44/pyhomerun)** &nbsp;·&nbsp; on [PyPI](https://pypi.org/project/pyhomerun/)
 
 A clean, dependency-free Python library for baseball stats: sabermetrics + an MLB Stats API client.
 
-```
-$ pip install pyhomerun
-```
+`Python`&nbsp; `Sabermetrics`&nbsp; `Zero Deps`
 
-`Python` `Sabermetrics` `Zero Deps` &nbsp;·&nbsp; [source](https://github.com/SRock44/pyhomerun) · [PyPI](https://pypi.org/project/pyhomerun/)
+<a href="https://pypi.org/project/pyhomerun/"><img src="https://img.shields.io/pypi/v/pyhomerun?style=for-the-badge&color=00d4ff&labelColor=0d1117&label=PyPI&logo=pypi&logoColor=white"/></a>
 
-### sports-prediction-model
+</td>
+<td width="50%" valign="top">
+
+**[sports-prediction-model](https://github.com/SRock44/sports-prediction-model)**
 
 Open-source feature engineering + XGBoost/LightGBM training code powering my production NBA/MLB winner & player-prop models. Self-retrains nightly via Celery + Optuna, MLflow-tracked.
 
-```
-$ git clone https://github.com/SRock44/sports-prediction-model
-```
+`Python`&nbsp; `XGBoost`&nbsp; `MLOps`
 
-`Python` `XGBoost` `MLOps` &nbsp;·&nbsp; [source](https://github.com/SRock44/sports-prediction-model)
+<a href="https://github.com/SRock44/sports-prediction-model"><img src="https://img.shields.io/github/last-commit/SRock44/sports-prediction-model/master?style=for-the-badge&color=00d4ff&labelColor=0d1117&label=updated&logo=github&logoColor=white"/></a>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 <!-- ░░░ DEV METRICS ░░░ -->
 ## Dev Metrics
+
+<div align="center">
 
 <!--START_SECTION:waka-->
 Populated by the `Dev Metrics` GitHub Action on its next scheduled run (or trigger it manually from the Actions tab).
 <!--END_SECTION:waka-->
 
+</div>
+
 <!-- ░░░ CONNECT ░░░ -->
 ## Connect
 
-```
-guest@github:~$ echo $CONTACT
-email:     sean@rockwitz.com
-github:    github.com/SRock44
-linkedin:  linkedin.com/in/srockwitz
+<div align="center">
 
-# open to internships & new-grad roles
-```
+<a href="mailto:sean@rockwitz.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/SRock44"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/srockwitz/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI%2BPHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyNSAweiIvPjwvc3ZnPg%3D%3D"/></a>
+
+<br/>
+
+<sub>Open to internships & new-grad roles</sub>
+
+</div>
