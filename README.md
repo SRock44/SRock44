@@ -105,6 +105,8 @@ Open-source feature engineering + XGBoost/LightGBM training code powering my pro
 <!-- ░░░ MODEL FINE-TUNING ░░░ -->
 ## Model Fine-Tuning
 
+I fine-tune **Cipher**, a family of local email-triage/assistant models, in three tiers sized for different hardware — benchmarks for each are on their model cards.
+
 <div align="center">
 
 <table>
@@ -113,7 +115,7 @@ Open-source feature engineering + XGBoost/LightGBM training code powering my pro
 
 **[cipher-pro](https://huggingface.co/srock44/cipher-pro)**
 
-Fine-tuned for high-accuracy email triage and drafting; the largest of the Cipher line, tuned for quality over speed.
+The top tier of the Cipher line, tuned for quality over speed on higher-end hardware.
 
 `Fine-Tuning`&nbsp; `Email Triage`&nbsp; `Local Inference`
 
@@ -124,7 +126,7 @@ Fine-tuned for high-accuracy email triage and drafting; the largest of the Ciphe
 
 **[cipher-air](https://huggingface.co/srock44/cipher-air)**
 
-A mid-sized Cipher model balancing speed and accuracy for local email assistants on consumer hardware.
+The mid tier, balancing speed and accuracy for local assistants on consumer hardware.
 
 `Fine-Tuning`&nbsp; `Email Triage`&nbsp; `Local Inference`
 
@@ -137,7 +139,7 @@ A mid-sized Cipher model balancing speed and accuracy for local email assistants
 
 **[cipher-nano](https://huggingface.co/srock44/cipher-nano)**
 
-The smallest Cipher model: built to run fully on-device for fast, private email triage with no cloud round-trip.
+The lightest tier, sized to run fully on-device for fast, low-resource triage.
 
 `Fine-Tuning`&nbsp; `Email Triage`&nbsp; `Local Inference`
 
@@ -146,8 +148,6 @@ The smallest Cipher model: built to run fully on-device for fast, private email 
 </td>
 </tr>
 </table>
-
-<sub>All three run 100% locally — no API calls, no data leaving the device.</sub>
 
 </div>
 
