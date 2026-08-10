@@ -25,7 +25,7 @@ I'm a computer science student at **NYIT** (graduating 2026), currently working 
 - I built **[rmbr](https://github.com/SRock44/rmbr)**, an embedded, local-first memory + retrieval engine for AI agents: one SQLite file, no server, no API key required. Published on PyPI, listed as an MCP server on the [official MCP registry](https://registry.modelcontextprotocol.io) and on [Glama.ai](https://glama.ai/mcp/servers/SRock44/rmbr), with an optional HTTP mode too.
 - I built **[pyhomerun](https://github.com/SRock44/pyhomerun)**, a zero-dependency Python library for baseball stats: sabermetrics and an MLB Stats API client, published on PyPI.
 - On the side, I develop custom **Lua** scripts for games like *Holdfast*, *GTA*, and *FiveM*, which is where I learned to read messy systems, reverse-engineer APIs, and ship for real players.
-- I built **[SoundKitten](https://soundkitten.org)**, a lightweight Rust/Tauri desktop SoundCloud client for people who'd rather not run a browser wrapped in an "app." Source at **[soundkitten](https://github.com/srock44/soundkitten)**.
+- My current hobby project is **[SoundKitten](https://soundkitten.org)**, a lightweight Rust/Tauri desktop SoundCloud client for people who'd rather not run a browser wrapped in an "app." Source at **[soundkitten](https://github.com/srock44/soundkitten)**.
 
 <!-- ░░░ TECH STACK ░░░ -->
 ## Tech Stack
