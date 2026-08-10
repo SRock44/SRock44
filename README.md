@@ -102,6 +102,55 @@ Open-source feature engineering + XGBoost/LightGBM training code powering my pro
 
 </div>
 
+<!-- ░░░ MODEL FINE-TUNING ░░░ -->
+## Model Fine-Tuning
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[cipher-pro](https://huggingface.co/srock44/cipher-pro)**
+
+Fine-tuned for high-accuracy email triage and drafting; the largest of the Cipher line, tuned for quality over speed.
+
+`Fine-Tuning`&nbsp; `Email Triage`&nbsp; `Local Inference`
+
+<a href="https://huggingface.co/srock44/cipher-pro"><img src="https://img.shields.io/badge/🤗%20Hugging%20Face-cipher--pro-FFD21E?style=for-the-badge&labelColor=0d1117"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+**[cipher-air](https://huggingface.co/srock44/cipher-air)**
+
+A mid-sized Cipher model balancing speed and accuracy for local email assistants on consumer hardware.
+
+`Fine-Tuning`&nbsp; `Email Triage`&nbsp; `Local Inference`
+
+<a href="https://huggingface.co/srock44/cipher-air"><img src="https://img.shields.io/badge/🤗%20Hugging%20Face-cipher--air-FFD21E?style=for-the-badge&labelColor=0d1117"/></a>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center" valign="top">
+
+**[cipher-nano](https://huggingface.co/srock44/cipher-nano)**
+
+The smallest Cipher model: built to run fully on-device for fast, private email triage with no cloud round-trip.
+
+`Fine-Tuning`&nbsp; `Email Triage`&nbsp; `Local Inference`
+
+<a href="https://huggingface.co/srock44/cipher-nano"><img src="https://img.shields.io/badge/🤗%20Hugging%20Face-cipher--nano-FFD21E?style=for-the-badge&labelColor=0d1117"/></a>
+
+</td>
+</tr>
+</table>
+
+<sub>All three run 100% locally — no API calls, no data leaving the device.</sub>
+
+</div>
+
 <!-- ░░░ DEV METRICS ░░░ -->
 ## Dev Metrics
 
@@ -142,6 +191,7 @@ Sunday                   268 commits         ███░░░░░░░░�
 
 <a href="mailto:sean@rockwitz.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/SRock44"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://huggingface.co/srock44"><img src="https://img.shields.io/badge/Hugging%20Face-0d1117?style=for-the-badge&logo=huggingface&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/srockwitz/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI%2BPHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyNSAweiIvPjwvc3ZnPg%3D%3D"/></a>
 
 <br/>
