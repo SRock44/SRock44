@@ -24,8 +24,8 @@ I'm a computer science student at **NYIT** (graduating 2026), currently working 
 - I run a production ML pipeline that predicts NBA/MLB game winners and player props with an XGBoost + LightGBM ensemble: test-set accuracy, 50+ engineered features, and a fully automated Celery/Optuna retraining loop with MLflow-tracked champion/challenger promotion, running on a self-hosted GPU server. The feature engineering and model training code is open-sourced at **[sports-prediction-model](https://github.com/SRock44/sports-prediction-model)**.
 - I built **[rmbr](https://github.com/SRock44/rmbr)**, an embedded, local-first memory + retrieval engine for AI agents: one SQLite file, no server, no API key required. Published on PyPI, listed as an MCP server on the [official MCP registry](https://registry.modelcontextprotocol.io) and on [Glama.ai](https://glama.ai/mcp/servers/SRock44/rmbr), with an optional HTTP mode too.
 - I built **[pyhomerun](https://github.com/SRock44/pyhomerun)**, a zero-dependency Python library for baseball stats: sabermetrics and an MLB Stats API client, published on PyPI.
-- On the side, I develop custom **Lua & C#** scripts for games like *Holdfast*, *GTA*, and *FiveM*, which is where I learned to read messy systems, reverse-engineer APIs, and ship for real players.
-- My current hobby project is **[SoundKitten](https://soundkitten.org)**, a lightweight Rust/Tauri desktop SoundCloud client for people who'd rather not run a browser wrapped in an "app." Source at **[soundkitten](https://github.com/srock44/soundkitten)**.
+- On the side, I develop custom **Lua** scripts for games like *Holdfast*, *GTA*, and *FiveM*, which is where I learned to read messy systems, reverse-engineer APIs, and ship for real players.
+- I built **[SoundKitten](https://soundkitten.org)**, a lightweight Rust/Tauri desktop SoundCloud client for people who'd rather not run a browser wrapped in an "app." Source at **[soundkitten](https://github.com/srock44/soundkitten)**.
 
 <!-- ░░░ TECH STACK ░░░ -->
 ## Tech Stack
@@ -161,29 +161,27 @@ The lightest tier, sized to run fully on-device for fast, low-resource triage.
 <div align="center">
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
+**2435 commits in the last 365 days across 65 owned repos**
 
 ```text
-🌞 Morning                1658 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
-🌆 Daytime                5572 commits        ███████████░░░░░░░░░░░░░░   43.88 % 
-🌃 Evening                4610 commits        █████████░░░░░░░░░░░░░░░░   36.31 % 
-🌙 Night                  857 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
+🌞 Morning                266 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.92 %
+🌆 Daytime                1056 commits        ███████████░░░░░░░░░░░░░░   43.37 %
+🌃 Evening                756 commits         ████████░░░░░░░░░░░░░░░░░   31.05 %
+🌙 Night                  357 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.66 %
 ```
-📅 **I'm Most Productive on Saturday** 
+📅 **I'm Most Productive on Monday**
 
 ```text
-Monday                   2027 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
-Tuesday                  1502 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
-Wednesday                1578 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
-Thursday                 1778 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
-Friday                   1495 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
-Saturday                 2295 commits        █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
-Sunday                   2022 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
+Monday                   381 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.65 %
+Tuesday                  309 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.69 %
+Wednesday                345 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.17 %
+Thursday                 373 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.32 %
+Friday                   322 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.22 %
+Saturday                 346 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.21 %
+Sunday                   359 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.74 %
 ```
 
-
-
- Last Updated on 04/10/2026 11:42:30 UTC
+ Last Updated on 10/04/2026 UTC
 <!--END_SECTION:waka-->
 
 </div>
