@@ -195,6 +195,5 @@ Sunday                   360 commits         ████░░░░░░░�
 
 <br/>
 
-<sub>Open to internships & new-grad roles</sub>
 
 </div>
