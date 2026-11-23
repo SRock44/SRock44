@@ -158,27 +158,27 @@ The lightest tier, sized to run fully on-device for fast, low-resource triage.
 <div align="center">
 
 <!--START_SECTION:waka-->
-**2531 commits in the last 365 days across 66 owned repos**
+**2517 commits in the last 365 days across 66 owned repos**
 
 ```text
-🌞 Morning                264 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.43 %
-🌆 Daytime                1088 commits        ███████████░░░░░░░░░░░░░░   42.99 %
-🌃 Evening                822 commits         ████████░░░░░░░░░░░░░░░░░   32.48 %
-🌙 Night                  357 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.11 %
+🌞 Morning                263 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.45 %
+🌆 Daytime                1082 commits        ███████████░░░░░░░░░░░░░░   42.99 %
+🌃 Evening                815 commits         ████████░░░░░░░░░░░░░░░░░   32.38 %
+🌙 Night                  357 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.18 %
 ```
 📅 **I'm Most Productive on Monday**
 
 ```text
-Monday                   415 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.40 %
-Tuesday                  322 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.72 %
-Wednesday                370 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.62 %
-Thursday                 405 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.00 %
-Friday                   319 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.60 %
-Saturday                 340 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.43 %
-Sunday                   360 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.22 %
+Monday                   418 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.61 %
+Tuesday                  322 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.79 %
+Wednesday                366 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.54 %
+Thursday                 404 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.05 %
+Friday                   316 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.55 %
+Saturday                 337 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.39 %
+Sunday                   354 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.06 %
 ```
 
- Last Updated on 11/16/2026 UTC
+ Last Updated on 11/23/2026 UTC
 <!--END_SECTION:waka-->
 
 </div>
